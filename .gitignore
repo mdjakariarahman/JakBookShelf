@@ -16,9 +16,7 @@ venv.bak/
 *.pyc
 db.sqlite3
 
-# Media and static files (if you have)
-media/
-staticfiles/
+
 
 # VS Code settings
 .vscode/
