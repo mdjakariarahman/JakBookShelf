@@ -1,0 +1,67 @@
+# Python cache and bytecode files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment folders
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# Django stuff:
+*.log
+*.pot
+*.pyc
+db.sqlite3
+
+# Media and static files (if you have)
+media/
+staticfiles/
+
+# VS Code settings
+.vscode/
+
+# macOS system files
+.DS_Store
+
+# IDE files
+.idea/
+*.iml
+
+# Pytest cache
+.pytest_cache/
+
+# mypy cache
+.mypy_cache/
+
+# Coverage reports
+htmlcov/
+.coverage
+
+# sqlite3 database if used
+*.sqlite3
+
+# Distribution / packaging
+dist/
+build/
+eggs/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Unit test / coverage reports
+.coverage
+.tox/
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+
+# Pyre type checker
+.pyre/
+
+# pyenv
+.python-version
